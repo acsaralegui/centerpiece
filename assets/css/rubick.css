@@ -2250,10 +2250,10 @@ a,
   opacity: .4;
 }
 .filter.filter-color-black:before {
-  background: #333;
+  background: ;
 }
 .filter.filter-color-gold:before {
-  background: #c5a47e;
+  background: ;
 }
 .filter.filter-color-green:before {
   background: #275e4c;
