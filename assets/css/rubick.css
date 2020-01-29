@@ -238,25 +238,25 @@ body > .navbar-collapse a {
 }
 
 .form-control::-moz-placeholder {
-  color: #DDDDDD;
+  color: black;
   opacity: 1;
   filter: alpha(opacity=100);
 }
 
 .form-control:-moz-placeholder {
-  color: #DDDDDD;
+  color: black;
   opacity: 1;
   filter: alpha(opacity=100);
 }
 
 .form-control::-webkit-input-placeholder {
-  color: #DDDDDD;
+  color: black;
   opacity: 1;
   filter: alpha(opacity=100);
 }
 
 .form-control:-ms-input-placeholder {
-  color: #DDDDDD;
+  color: black;
   opacity: 1;
   filter: alpha(opacity=100);
 }
