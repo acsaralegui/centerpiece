@@ -1760,8 +1760,8 @@ a:hover {
 }
 
 .separator-container {
-  text-align: center;
-  position: relative;
+  text-align: left;
+  position: left;
 }
 .separator-container .separator {
   color: #3966EB;
@@ -1879,7 +1879,7 @@ a:hover {
   position: relative;
   z-index: 3;
   display: block;
-  background-color: #FFFFFF;
+  
 }
 .section .parallax, .section .full-image {
   width: 100%;
