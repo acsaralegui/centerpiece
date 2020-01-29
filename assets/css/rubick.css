@@ -2545,7 +2545,7 @@ a.carousel-control span.fa {
 
 .card p {
   font-size: 1em;
-  min-height: 100px;
+  min-height: 0px;
 }
 .card h3 {
   text-transform: capitalize;
