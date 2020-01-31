@@ -1895,7 +1895,7 @@ a:hover {
 .section .parallax .filter > img, .section .full-image > img,
 .section .full-image .filter > img {
   min-width: 100%;
-  min-height: 50%;
+  min-height: 100%;
   width: auto;
   height: 50%;
   position: relative;
