@@ -49,7 +49,7 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 .center {
    margin-left: auto;
     margin-right: auto;
-    width: 30em
+    width: 25em
 }
 
 .ui-slider-handle:focus,
@@ -1708,6 +1708,9 @@ p {
   font-weight: 400;
   margin: 0 0 .75em;
 }
+li {
+  text-align: left;
+}
 
 p,
 label,
@@ -1760,8 +1763,8 @@ a:hover {
 }
 
 .separator-container {
-  text-align: left;
-  position: left;
+  text-align: center;
+  position: relative;
 }
 .separator-container .separator {
   color: #3966EB;
@@ -1892,9 +1895,9 @@ a:hover {
 .section .parallax .filter > img, .section .full-image > img,
 .section .full-image .filter > img {
   min-width: 100%;
-  min-height: 80%;
+  min-height: 50%;
   width: auto;
-  height: 100%;
+  height: 50%;
   position: relative;
   z-index: 1;
 }
