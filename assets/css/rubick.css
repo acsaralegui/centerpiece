@@ -32,7 +32,11 @@ div.b {
 }
 
 mark {
-  color:#3966EB;
+  background-color: blue;
+}
+
+li {
+  list-style: none;
 }
 
 a:focus, a:active,
