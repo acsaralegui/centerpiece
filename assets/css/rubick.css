@@ -33,7 +33,6 @@ div.b {
 
 mark {
   color:#3966EB;
-  background-color: white;
 }
 
 a:focus, a:active,
@@ -113,14 +112,14 @@ body > .navbar-collapse a {
 }
 
 .btn {
-  border-width: 2px;
+  border-width: 3px;
   background-color: transparent;
   font-weight: 400;
   opacity: 0.8;
   filter: alpha(opacity=80);
   padding: 8px 16px;
-  border-color: #888888;
-  color: #888888;
+  border-color: white;
+  color: white;
 }
 .btn:hover, .btn:focus, .btn:active, .btn.active, .open > .btn.dropdown-toggle {
   background-color: transparent;
@@ -1868,7 +1867,7 @@ a:hover {
 
 /* SECTIONS */
 .section {
-  padding: 1.875em 0;
+  padding: 0em 0;
   position: relative;
   background-color: #FFFFFF;
 }
@@ -2518,6 +2517,11 @@ a.carousel-control span.fa {
 
 .card img {
   max-width: 100%;
+}
+
+.parallax-img {
+  max-width: 100%;
+  max-height: 60%
 }
 
 .section-we-do-1 .text-area, .section-we-do-2 .text-area {
