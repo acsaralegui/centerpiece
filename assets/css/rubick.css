@@ -117,7 +117,7 @@ body > .navbar-collapse a {
 
 .btn {
   border-width: 3px;
-  background-color: transparent;
+  
   font-weight: 400;
   opacity: 0.8;
   filter: alpha(opacity=80);
@@ -2605,8 +2605,8 @@ body.noscroll {
 }
 
 .section-we-made-3 .row [class^="col-"] {
-  margin-bottom: 10px;
-  padding: 0 5px;
+  margin-bottom: 6px;
+  padding: 0 ;
 }
 .section-we-made-3 .row .col-md-4 a {
   padding: 4% 8%;
