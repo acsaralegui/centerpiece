@@ -4,7 +4,6 @@
     {
        $UserName = $_POST['UName'];
        $Email = $_POST['Email'];
-       $Company =$_POST['Company']
        $Subject = $_POST['Subject'];
        $Msg = $_POST['msg'];
  
@@ -16,7 +15,7 @@
        {
            $to = "easilysmart@gmail.com";
  
-           if(mail($to,$Subject,$UName,$Company,$Msg,$Email))
+           if(mail($to,$Subject,$Msg,$Email))
            {
                header("location:index.php?success");
            }
