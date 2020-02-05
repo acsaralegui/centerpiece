@@ -1712,7 +1712,7 @@ p {
   margin: 0 0 .75em;
 }
 li {
-  text-align: left;
+  text-align: center;
 }
 
 p,
@@ -2606,7 +2606,7 @@ body.noscroll {
 
 .section-we-made-3 .row [class^="col-"] {
   margin-bottom: 6px;
-  padding: 0 ;
+  padding: 2px ;
 }
 .section-we-made-3 .row .col-md-4 a {
   padding: 4% 8%;
