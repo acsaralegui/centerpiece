@@ -1898,7 +1898,7 @@ a:hover {
 .section .parallax .filter > img, .section .full-image > img,
 .section .full-image .filter > img {
   min-width: 100%;
-  min-height: 90%;
+  min-height: 100%;
   width: auto;
   height: 70%;
   position: relative;
@@ -2528,10 +2528,19 @@ a.carousel-control span.fa {
   max-height: 60%;
   width: auto;
 }
+.centerpiece-img{
+  min-width: 100%;
+  min-height: 30%;
+  width: auto;
+  height: 40%;
+  position: relative;
+  z-index: 1;
+
+}
 
 .baja {
   max-width: 100%;
-  max-height: 60%;
+  max-height: 40%;
   width: auto;
 }
 
