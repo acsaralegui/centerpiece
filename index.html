@@ -101,7 +101,6 @@
     <div class="section section-header">
         <div class="parallax pattern-image"> 
            <img src="assets/img/cp-web20-bkgd-home.jpg"/>
-
             <div class="container"> 
                  <div class="content">
                     <p><span> </span></p>
@@ -111,16 +110,13 @@
                       <div class="separator line-separator"><img width="20" height="20" src="assets/img/cp-logo-mark-white.png"/></div>
                     </div>
                     <h5>The <font size="6" face="EB Garamond" color="#FB5817">operational centerpiece</font> of your medical device business</h5>
-                    <br>
-                    
+                    <br> 
                     <a class="btn btn-primary" href="" data-scroll="true" data-id="#contact" role="button">CONTACT US</a>
-                </div>               
+                  </div> 
+                  <a href="" data-scroll="true" data-id="#whoWeAre" class="scroll-arrow hidden-xs hidden-sm"><i class="fa fa-angle-down"></i>
+                  </a>              
             </div>
         </div>
-        <a href="" data-scroll="true" data-id="#whoWeAre" class="scroll-arrow hidden-xs hidden-sm">
-            <i class="fa fa-angle-down"></i>
-
-        </a>
     </div>
     
     <div class="section section-we-are-1" id="whoWeAre">
@@ -229,7 +225,7 @@
                     <ul><img width="15" height="15" src="assets/img/cp-logo-mark-660.svg"/> Clean Room Manufacturing</ul><br>
                     <ul><img width="15" height="15" src="assets/img/cp-logo-mark-660.svg"/> Supply Chain Management</ul><br>
                     <br>
-                    <a class="btn btn-primary" href="project-content" data-scroll="true" data-id="#project_1" role="button">LEARN MORE</a>
+                   <!-- <a class="btn btn-primary" href="project-content" data-scroll="true" data-id="#project_1" role="button">LEARN MORE</a> -->
 
                </div>
                <br>
@@ -719,13 +715,13 @@
 
       <div class="container">
         <div class="row">
-            <div class="col-lg-8 m-auto">
+            <div class="center">
                <div class="card mt-5">
                   <div class="card-title">
                     <h2 class="text-center py-2"> Contact Us</h2>
-                      <div class="separator-container">
-                        <div class="separator line-separator"><img width="20" height="20" src="assets/img/cp-logo-mark-660.svg"/></div>
-                      </div>
+                        
+                       
+                   
                       <p>You don’t need a contract manufacturing partner. You need a supply chain solution.</p>
                     <hr>
                     <?php 
@@ -742,7 +738,7 @@
                             echo '<div class="alert alert-success">'.$Msg.'</div>';
                       }
                         
-                    ?>
+                  ?>
                 </div>
                   <div class="card-body">
                         <form action="process.php" method="post">
@@ -760,43 +756,9 @@
       </div>
     </div>
   </div>
-</div>
 
-    <div class="section section-contact-1" id="contact">
-      <form id="section section-contact-1" method="post" action="contactform.php">
-        <div class="container">  
-            <div class="text-area">
-                 <div class="title add-animation">  
-                   <h2>Contact Us</h2>
-                   <div class="separator-container">
-                      <div class="separator line-separator"><img width="20" height="20" src="assets/img/cp-logo-mark-660.svg"/></div>
-                   </div>
-                   <p>You don’t need a contract manufacturing partner. You need a supply chain solution.</p>
-            </div>
-                  
-                  
-                  <div class="col-md-8 col-md-offset-1 col-sm-7 col-sm-offset-2">
-                    <div class="form-group add-animation animation-1">
-                      <input name="name" type="text" placeholder="Full Name" class="form-control" required>
-                    </div>
-                    <div class="form-group add-animation animation-2">
-                      <input name="email" type="email" placeholder="Email Address" class="form-control" required>
-                    </div>
-                    <div class="form-group add-animation animation-2">
-                      <input name="company" type="text"  placeholder="Company Name" class="form-control" required>
-                    </div>
-                    <div class="form-group add-animation animation-3">
-                         <textarea name="message" class="form-control" placeholder="Here you can write some nice text" rows="8"></textarea>
-                    </div>
-                   
-                    <input type="submit" class="form-control submit" value="SEND">
-                    </input>
-                  </div>
-                </div>
-            </div>
-        </div>
-      </form>
-    </div>
+
+    
 
 
     </div>
