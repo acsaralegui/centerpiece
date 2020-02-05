@@ -292,14 +292,14 @@ rubik = {
                 if(transparent) {
                     transparent = false;
                     $('nav[role="navigation"]').removeClass('navbar-transparent');
-                    $('.navbar-brand  img').attr('src', 'Centerpiece Logo HOR.svg');
+                    $('.navbar-brand  img').attr('src', '  Centerpiece Logo HOR.svg');
                     
                 }
             } else {
                 if( !transparent ) {
                     transparent = true;
                     $('nav[role="navigation"]').addClass('navbar-transparent');
-                    $('.navbar-brand  img').attr('src', 'cp-logo-hor-white-orange.png');
+                    $('.navbar-brand  img').attr('src', '  cp-logo-hor-white-orange.png');
                 }
             }
     }, 17),
