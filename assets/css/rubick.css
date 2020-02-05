@@ -2378,7 +2378,7 @@ a.scroll-arrow {
   display: block;
   margin: 0 auto;
   position: absolute;
-  bottom: 40px;
+  bottom: 100px;
   left: 50%;
   z-index: 1029;
   -webkit-transform: translateX(-50%);
@@ -2524,6 +2524,12 @@ a.carousel-control span.fa {
 }
 
 .parallax-img {
+  max-width: 100%;
+  max-height: 60%;
+  width: auto;
+}
+
+.baja {
   max-width: 100%;
   max-height: 60%;
   width: auto;
