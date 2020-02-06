@@ -505,7 +505,8 @@
                         </div>
                     </div>
                 </div>                
-            </div>
+              </div>
+             h2><center>For more information, email <font size="6" face="EB Garamond" color="blue">info@centerpiece.life</font></center></h2> 
         </div>
     </div>
     <br>
@@ -766,9 +767,9 @@
                     </div>
                     <div class="card-body">
                         <form action="process.php" method="post">
-                            <input type="text" name="UName" placeholder="User Name" class="form-control mb-2">
+                            <input type="text" name="UName" placeholder="Full Name" class="form-control mb-2">
                             <input type="email" name="Email" placeholder="Email" class="form-control mb-2">
-                            <input type="text" name="Subject" placeholder="Subject" class="form-control mb-2">
+                            <input type="text" name="Subject" placeholder="Company" class="form-control mb-2">
                             <textarea name="msg" class="form-control mb-2" placeholder="Write The Message"></textarea>
                             <button class="btn btn-primary btn-lg" name="btn-send"> Send </button>
                         </form>

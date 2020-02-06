@@ -2,12 +2,12 @@
  
     if(isset($_POST['btn-send']))
     {
-       $UserName = $_POST['UName'];
+       $FullName = $_POST['UName'];
        $Email = $_POST['Email'];
-       $Subject = $_POST['Subject'];
+       $Company = $_POST['Subject'];
        $Msg = $_POST['msg'];
  
-       if(empty($UserName) || empty($Email) || empty($Subject) || empty($Msg))
+       if(empty($FullName) || empty($Email) || empty($Company) || empty($Msg))
        {
            header('location:index.php?error');
        }
@@ -15,7 +15,7 @@
        {
            $to = "easilysmart@gmail.com";
  
-           if(mail($to,$Subject,$Msg,$Email))
+           if(mail($to,$Subject,$UserName,$Msg,$Email))
            {
                header("location:index.php?success");
            }
