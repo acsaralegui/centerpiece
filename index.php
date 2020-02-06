@@ -506,7 +506,7 @@
                     </div>
                 </div>                
               </div>
-             h2><center>For more information, email <font size="6" face="EB Garamond" color="blue">info@centerpiece.life</font></center></h2> 
+             <h2><center>For more information, email <font size="4" face="EB Garamond" color="#3966EB">info@centerpiece.life</font></center></h2> 
         </div>
     </div>
     <br>
