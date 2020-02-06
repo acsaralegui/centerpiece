@@ -521,7 +521,7 @@
                     </div>
                 </div>                
               </div>
-             <h3><center>For more information, email <font face="EB Garamond" color="#3966EB"><a href="info@centerpiece.life">Jinfo@centerpiece.life</a> </font></center></h3>
+             <h3><center>For more information, email <font face="EB Garamond" color="#3966EB"><a href="mailto:info@centerpiece.life">info@centerpiece.life</a> </font></center></h3>
         </div>
     </div>
     <br>
