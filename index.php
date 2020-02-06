@@ -104,6 +104,21 @@
             <div class="container"> 
                  <div class="content">
                     <p><span> </span></p>
+                    <?php 
+                            $Msg = "";
+                            if(isset($_GET['error']))
+                            {
+                                $Msg = " Please Fill in the Blanks ";
+                                echo '<div class="alert alert-danger">'.$Msg.'</div>';
+                            }
+ 
+                            if(isset($_GET['success']))
+                            {
+                                $Msg = " Your Message Has Been Sent ";
+                                echo '<div class="alert alert-success">'.$Msg.'</div>';
+                            }
+                        
+                        ?>
                     <div class="a"><h2>Contract Manufacturing<br>and<br>EO Sterilization</h2></div>
                  
                     <div class="separator-container">
@@ -506,7 +521,7 @@
                     </div>
                 </div>                
               </div>
-             <h3><center>For more information, email <font face="EB Garamond" color="#3966EB">info@centerpiece.life</font></center></h3> 
+             <h3><center>For more information, email <font face="EB Garamond" color="#3966EB" href="info@centerpiece.life">info@centerpiece.life</font></center></h3> 
         </div>
     </div>
     <br>

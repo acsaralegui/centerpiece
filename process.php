@@ -15,7 +15,7 @@
        {
            $to = "easilysmart@gmail.com";
  
-           if(mail($to,$Subject,$UserName,$Msg,$Email))
+           if(mail($to,$Company,$FullName,$Msg,$Email))
            {
                header("location:index.php?success");
            }
