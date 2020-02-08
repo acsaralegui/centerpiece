@@ -2546,9 +2546,9 @@ a.carousel-control span.fa {
 
 .baja {
   min-width: 100%;
-  min-height: 100%;
+  min-height: 30%;
   width: auto;
-  height: 70%;
+  height: 40%;
   position: relative;
   z-index: 1;
 }
