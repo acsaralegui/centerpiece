@@ -2545,8 +2545,9 @@ a.carousel-control span.fa {
 }
 
 .baja {
-  height: auto;
-  width: 100%;
+  max-width: 100%;
+  max-height: 50%;
+
 }
 
 .section-we-do-1 .text-area, .section-we-do-2 .text-area {
