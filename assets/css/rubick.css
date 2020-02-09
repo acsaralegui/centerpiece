@@ -2545,12 +2545,8 @@ a.carousel-control span.fa {
 }
 
 .baja {
-  min-width: 100%;
-  min-height: 30%;
-  width: auto;
-  height: 40%;
-  position: relative;
-  z-index: 1;
+  width: 100%;
+  display: block;
 }
 
 .section-we-do-1 .text-area, .section-we-do-2 .text-area {
