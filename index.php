@@ -532,8 +532,8 @@
     
     <div class="section section-we-made-3 section-with-hover">
       <div class="centerpiece img">
-     
         <img class="baja" src="assets/img/baja.jpg">
+        <div class="centered">Rosarito</div>
       </div>
     <div class="container" id="Location">
             
