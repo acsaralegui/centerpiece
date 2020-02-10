@@ -290,7 +290,7 @@
                     <div class="panel panel-primary">
                        <div class="panel-heading"><h3>Procurement of Materials<hr><span class="fa fa-angle-right"></span></h3>                         
                        </div>
-                          <p><li>Supplier Evaluation, Management, and Development</li>
+                          <p><li><br>Supplier Evaluation, Management, and Development</li>
                           <hr>
                           <li>Direct and Indirect Material Purchasing</li>
                           <hr>
@@ -534,13 +534,14 @@
     <div class="section section-we-made-3 section-with-hover">
       <div class="centerpiece img">
         <img class="baja" src="assets/img/baja.jpg">
+        <H3>Rosarito</H3>
       </div>
     <div class="container" id="Location">
             
                 <div class="location">
                   <div class="col-md-5 col-sm-6">
                     <br>
-                   <h2><center>Rosarito</center></h2>
+                   <h2><center>About Rosarito, Baja California</center></h2>
                    <div class="separator-container">
                       <div class="separator line-separator"><img width="20" height="20" src="assets/img/cp-logo-mark-660.svg"/></div>
                    </div>
