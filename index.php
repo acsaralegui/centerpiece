@@ -588,7 +588,7 @@
           <div class="row">
              <div class="col-md-3 col-sm-6">
               <div class="member add-animation animation-1">
-                  <img class="img-circle" src="assets/img/faces/face_9.jpg"/>
+                  <img class="img-circle" src="assets/img/faces/face_1.jpg"/>
                   <div class="description">
                     <h3 class="big-text">Matt Jordan</h3>
                     <p class="small-text">Chief Executive Officer</p>
@@ -604,7 +604,7 @@
 
             <div class="col-md-3 col-sm-6">
                <div class="member add-animation animation-2">
-                  <img class="img-circle" src="assets/img/faces/face_10.jpg"/>
+                  <img class="img-circle" src="assets/img/faces/face_1.jpg"/>
                   <div class="description">
                     <h3 class="big-text">Derek Dunlap</h3>
                     <p class="small-text">Chief Financial Officer</p>
@@ -618,7 +618,7 @@
             </div>
              <div class="col-md-3 col-sm-6">
                <div class="member add-animation animation-3">
-                  <img class="img-circle" src="assets/img/faces/face_11.jpg"/>
+                  <img class="img-circle" src="assets/img/faces/face_1.jpg"/>
                   <div class="description">
                     <h3 class="big-text">Fransico Beltran</h3>
                     <p class="small-text">General Manager, Manufacturing</p>
@@ -633,7 +633,7 @@
 
              <div class="col-md-3 col-sm-6">
                <div class="member add-animation animation-4">
-                  <img class="img-circle" src="assets/img/faces/face_8.jpg"/>
+                  <img class="img-circle" src="assets/img/faces/face_1.jpg"/>
                   <div class="description">
                     <h3 class="big-text">Victor Saralegui</h3>
                     <p class="small-text">Technical Director, Sterilization</p>
@@ -647,7 +647,7 @@
             </div>
             <div class="col-md-3 col-sm-6">
               <div class="member add-animation animation-1">
-                  <img class="img-circle" src="assets/img/faces/face_9.jpg"/>
+                  <img class="img-circle" src="assets/img/faces/face_1.jpg"/>
                   <div class="description">
                     <h3 class="big-text">Rich Borror</h3>
                     <p class="small-text">Advisor</p>
@@ -662,7 +662,7 @@
             </div>
             <div class="col-md-3 col-sm-6">
               <div class="member add-animation animation-1">
-                  <img class="img-circle" src="assets/img/faces/face_10.jpg"/>
+                  <img class="img-circle" src="assets/img/faces/face_1.jpg"/>
                   <div class="description">
                     <h3 class="big-text">Tom Prentice</h3>
                     <p class="small-text">Advisor</p>
