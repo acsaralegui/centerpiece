@@ -316,7 +316,7 @@
                           <hr>
                           <li>Installation, Operational, and Process Qualifications</li>
                           <hr>
-                          <li><br><br></li>
+                          <li><br><br><br></li>
                          
                         </p>
                       </div>
@@ -336,6 +336,7 @@
                           <li>Best-in-Class EO Abatement Processing</li>
                           <hr>
                           <li>Located 20 Minutes from Manufacturing Site</li>
+                          <hr>
                         </p>
                     </div>
                    </div>
