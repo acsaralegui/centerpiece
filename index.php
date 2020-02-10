@@ -308,7 +308,7 @@
                       <div class="panel panel-primary">
                        <div class="panel-heading"><h3>Finished Device Manufacturing<hr><span class="fa fa-angle-right"></span></h3>
                        </div>
-                        <p><li><br>Clean Room Manufacturing<br></li>
+                        <p><li><br>Clean Room Manufacturing<br><br></li>
                           <hr>
                           <li>Finished Device and Sterile-Barrier Packaging</li>
                           <hr>
@@ -327,7 +327,7 @@
                     <div class="panel panel-primary">
                        <div class="panel-heading"><h3>In-House ETO Sterilization<hr><span class="fa fa-angle-right"></span></h3>
                        </div>
-                        <p><li>High and Low Volume Chambers</li>
+                        <p><li><br>High and Low Volume Chambers</li>
                           <hr>
                           <li>Validation and Cycle Improvement</li>
                           <hr>
@@ -534,7 +534,7 @@
     
     <div class="section section-we-made-3 section-with-hover">
       <div class="centerpiece img">
-        <H2>Rosarito</H2>
+     
         <img class="baja" src="assets/img/baja.jpg">
       </div>
     <div class="container" id="Location">
