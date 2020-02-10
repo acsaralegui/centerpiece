@@ -2554,14 +2554,6 @@ a.carousel-control span.fa {
   margin-right: auto;
 }
 
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-size: 20px
-}
-
 .section-we-do-1 .text-area, .section-we-do-2 .text-area {
   padding: 4.375em 0 0;
 }
