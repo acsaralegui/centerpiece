@@ -288,7 +288,7 @@
                <div class="col-md-3 col-sm-6">
                    <div class="card add-animation animation">
                     <div class="panel panel-primary">
-                       <div class="panel-heading"><h3>Procurement of Materials<hr><span class="fa fa-angle-right"></span></h3>                         
+                       <div class="panel-heading"><h3>Procurement of Materials<br><hr><span class="fa fa-angle-right"></span></h3>                         
                        </div>
                           <p><li>Supplier Evaluation, Management, and Development</li>
                           <hr>
@@ -298,7 +298,7 @@
                           <hr>
                           <li>Compliant Import / Export Processes</li>
                           <hr>
-                          <li><br></li>
+                          <li><br><br></li>
                         </p>
                     </div>
                   </div>
@@ -306,7 +306,7 @@
                <div class="col-md-3 col-sm-6">
                    <div class="card add-animation animation">
                       <div class="panel panel-primary">
-                       <div class="panel-heading"><h3>Finished Device Manufacturing<hr><span class="fa fa-angle-right"></span></h3>
+                       <div class="panel-heading"><h3>Finished Device Manufacturing<br><hr><span class="fa fa-angle-right"></span></h3>
                        </div>
                         <p><li><br>Clean Room Manufacturing<br><br></li>
                           <hr>
@@ -316,7 +316,7 @@
                           <hr>
                           <li>Installation, Operational, and Process Qualifications</li>
                           <hr>
-                          <li><br></li>
+                          <li><br><br></li>
                          
                         </p>
                       </div>
@@ -325,7 +325,7 @@
                <div class="col-md-3 col-sm-6">
                    <div class="card add-animation animation">
                     <div class="panel panel-primary">
-                       <div class="panel-heading"><h3>In-House ETO Sterilization<hr><span class="fa fa-angle-right"></span></h3>
+                       <div class="panel-heading"><h3>In-House ETO Sterilization<br><hr><span class="fa fa-angle-right"></span></h3>
                        </div>
                         <p><li><br>High and Low Volume Chambers</li>
                           <hr>
