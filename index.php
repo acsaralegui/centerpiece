@@ -316,7 +316,7 @@
                           <hr>
                           <li>Installation, Operational, and Process Qualifications</li>
                           <hr>
-                          <li><br><br></li>
+                          <li><br></li>
                          
                         </p>
                       </div>
@@ -346,7 +346,7 @@
                     <div class="panel panel-primary">
                        <div class="panel-heading"><h3>Order Fulfillment & Distribution<hr><span class="fa fa-angle-right"></span></h3>
                        </div>
-                        <p></p><li>Customer and / or Patient Shipping</li>
+                        <p><li><br>Customer and / or Patient Shipping</li>
                           <hr>
                           <li>Truck, Train, Ocean, and / or Air Logistics</li>
                           <hr>
