@@ -350,7 +350,7 @@
                           <hr>
                           <li>Truck, Train, Ocean, and / or Air Logistics</li>
                           <hr>
-                          <li>On-Time Delivery, In-Full</li>
+                          <li><br>On-Time Delivery, In-Full</li>
                           <hr>
                           <li>Compliant Import / Export Processes</li>
                           <hr>
