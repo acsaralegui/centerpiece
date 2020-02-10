@@ -298,7 +298,7 @@
                           <hr>
                           <li>Compliant Import / Export Processes</li>
                           <hr>
-                          <li><br><br></li>
+                          <li><br></li>
                         </p>
                     </div>
                   </div>
@@ -355,6 +355,7 @@
                           <li>Compliant Import / Export Processes</li>
                           <hr>
                           <li>CTPAT Trucking and Custom Agents</li>
+                          <hr>
                           <li><br></li>
                         </P>
                     </div>
@@ -533,8 +534,8 @@
     
     <div class="section section-we-made-3 section-with-hover">
       <div class="centerpiece img">
+        <H2>Rosarito</H2>
         <img class="baja" src="assets/img/baja.jpg">
-        <H3>Rosarito</H3>
       </div>
     <div class="container" id="Location">
             
