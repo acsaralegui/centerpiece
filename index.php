@@ -336,7 +336,7 @@
                           <li>Best-in-Class EO Abatement Processing</li>
                           <hr>
                           <li>Located 20 Minutes from Manufacturing Site</li>
-                          <li><br></li>
+
                         </p>
                     </div>
                    </div>
@@ -355,8 +355,6 @@
                           <li>Compliant Import / Export Processes</li>
                           <hr>
                           <li>CTPAT Trucking and Custom Agents</li>
-                          <hr>
-                          <li><br></li>
                         </P>
                     </div>
                    </div>
