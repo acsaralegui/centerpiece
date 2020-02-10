@@ -677,7 +677,7 @@
             </div>
             <div class="col-md-3 col-sm-6">
               <div class="member add-animation animation-1">
-                  <img class="img-circle" src="assets/img/faces/face_11.jpg"/>
+                  <img class="img-circle" src="assets/img/faces/face_1.jpg"/>
                   <div class="description">
                     <h3 class="big-text">Gerardo De la Concha</h3>
                     <p class="small-text">Advisor</p>
@@ -692,7 +692,7 @@
             </div>
             <div class="col-md-3 col-sm-6">
               <div class="member add-animation animation-1">
-                  <img class="img-circle" src="assets/img/faces/face_8.jpg"/>
+                  <img class="img-circle" src="assets/img/faces/face_1.jpg"/>
                   <div class="description">
                     <h3 class="big-text">Karl Im</h3>
                     <p class="small-text">Advisor</p>
