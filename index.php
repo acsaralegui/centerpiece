@@ -308,7 +308,7 @@
                       <div class="panel panel-primary">
                        <div class="panel-heading"><h3>Finished Device Manufacturing<hr><span class="fa fa-angle-right"></span></h3>
                        </div>
-                        <p><li>Clean Room Manufacturing</li>
+                        <p><li>Clean Room Manufacturing<br></li>
                           <hr>
                           <li>Finished Device and Sterile-Barrier Packaging</li>
                           <hr>
@@ -325,7 +325,7 @@
                <div class="col-md-3 col-sm-6">
                    <div class="card add-animation animation">
                     <div class="panel panel-primary">
-                       <div class="panel-heading"><h3>CIn-House ETO Sterilization<hr><span class="fa fa-angle-right"></span></h3>
+                       <div class="panel-heading"><h3>In-House ETO Sterilization<hr><span class="fa fa-angle-right"></span></h3>
                        </div>
                         <p><li>High and Low Volume Chambers</li>
                           <hr>
@@ -336,7 +336,7 @@
                           <li>Best-in-Class EO Abatement Processing</li>
                           <hr>
                           <li>Located 20 Minutes from Manufacturing Site</li>
-                          <hr>
+                          <li><br></li>
                         </p>
                     </div>
                    </div>
@@ -346,7 +346,7 @@
                     <div class="panel panel-primary">
                        <div class="panel-heading"><h3>Order Fulfillment & Distribution<hr><span class="fa fa-angle-right"></span></h3>
                        </div>
-                        <p></p><li>HCustomer and / or Patient Shipping</li>
+                        <p></p><li>Customer and / or Patient Shipping</li>
                           <hr>
                           <li>Truck, Train, Ocean, and / or Air Logistics</li>
                           <hr>
