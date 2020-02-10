@@ -290,7 +290,7 @@
                     <div class="panel panel-primary">
                        <div class="panel-heading"><h3>Procurement of Materials<hr><span class="fa fa-angle-right"></span></h3>                         
                        </div>
-                          <p><li><br>Supplier Evaluation, Management, and Development</li>
+                          <p><li>Supplier Evaluation, Management, and Development</li>
                           <hr>
                           <li>Direct and Indirect Material Purchasing</li>
                           <hr>
@@ -308,7 +308,7 @@
                       <div class="panel panel-primary">
                        <div class="panel-heading"><h3>Finished Device Manufacturing<hr><span class="fa fa-angle-right"></span></h3>
                        </div>
-                        <p><li>Clean Room Manufacturing<br></li>
+                        <p><li><br>Clean Room Manufacturing<br></li>
                           <hr>
                           <li>Finished Device and Sterile-Barrier Packaging</li>
                           <hr>
@@ -316,7 +316,7 @@
                           <hr>
                           <li>Installation, Operational, and Process Qualifications</li>
                           <hr>
-                          <li><br><br><br></li>
+                          <li><br><br></li>
                          
                         </p>
                       </div>
